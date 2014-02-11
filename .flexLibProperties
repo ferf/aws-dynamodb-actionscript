@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="false" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.erfwest.aws.AWSSessionToken"/>
+    <classEntry path="com.erfwest.aws.AWSSignature"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBGetItemRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBItem"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBPutItemRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBWebService"/>
+    <classEntry path="com.erfwest.utils.JSONWebService"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBDeleteItemRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBUpdate"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBUpdateItemRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBBatchGetItemRequest"/>
+    <classEntry path="com.erfwest.aws.dynamodb.DynamoDBBatchWriteItemRequest"/>
+    <classEntry path="test.com.erfwest.aws.dynamodb.DynamoDBGetItemRequestTest"/>
+    <classEntry path="test.com.erfwest.aws.dynamodb.DynamoDBPutItemRequestTest"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
